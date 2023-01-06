@@ -1,0 +1,7 @@
+#Fri Jan 06 15:18:20 CST 2023
+base.1=F\:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=F\:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

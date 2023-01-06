@@ -1,0 +1,10 @@
+ninja: Entering directory `F:\work\WorkSpace\ncnn-android-scrfd\app\.cxx\cmake\debug\armeabi-v7a'
+[1/4] Building CXX object CMakeFiles/scrfdncnn.dir/scrfdncnn.cpp.o
+[2/4] Building CXX object CMakeFiles/scrfdncnn.dir/ndkcamera.cpp.o
+F:/work/WorkSpace/ncnn-android-scrfd/app/src/main/jni/ndkcamera.cpp:152:117: warning: format specifies type 'long' but the argument has type 'int64_t' (aka 'long long') [-Wformat]
+    __android_log_print(ANDROID_LOG_WARN, "NdkCamera", "onCaptureSequenceCompleted %p %d %ld", session, sequenceId, frameNumber);
+                                                                                         ~~~                        ^~~~~~~~~~~
+                                                                                         %lld
+1 warning generated.
+[3/4] Building CXX object CMakeFiles/scrfdncnn.dir/scrfd.cpp.o
+[4/4] Linking CXX shared library libscrfdncnn.so

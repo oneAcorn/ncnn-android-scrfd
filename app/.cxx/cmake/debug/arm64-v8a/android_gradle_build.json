@@ -1,0 +1,63 @@
+{
+  "stringTable": {
+    "0": "F:/work/WorkSpace/ncnn-android-scrfd/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android24 --gcc-toolchain=E:/Androidtoo/sdk2/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Androidtoo/sdk2/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dscrfdncnn_EXPORTS -IF:/work/WorkSpace/ncnn-android-scrfd/app/src/main/jni/opencv-mobile-2.4.13.7-android/sdk/native/jni/include/opencv -IF:/work/WorkSpace/ncnn-android-scrfd/app/src/main/jni/opencv-mobile-2.4.13.7-android/sdk/native/jni/include -isystem F:/work/WorkSpace/ncnn-android-scrfd/app/src/main/jni/ncnn-20221128-android-vulkan/arm64-v8a/include/ncnn -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC -fno-rtti -fno-exceptions"
+  },
+  "buildFiles": [
+    "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\opencv-mobile-2.4.13.7-android\\sdk\\native\\jni\\OpenCVModules_arm64_v8a.cmake",
+    "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\ncnn-20221128-android-vulkan\\arm64-v8a\\lib\\cmake\\glslang\\glslang-config-version.cmake",
+    "E:\\Androidtoo\\sdk2\\ndk\\22.0.7026061\\build\\cmake\\android.toolchain.cmake",
+    "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\opencv-mobile-2.4.13.7-android\\sdk\\native\\jni\\OpenCVModules_arm64_v8a-release.cmake",
+    "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\ncnn-20221128-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\ncnn-20221128-android-vulkan\\arm64-v8a\\lib\\cmake\\glslang\\glslang-targets.cmake",
+    "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\CMakeLists.txt",
+    "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\ncnn-20221128-android-vulkan\\arm64-v8a\\lib\\cmake\\glslang\\glslang-config.cmake",
+    "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\ncnn-20221128-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\opencv-mobile-2.4.13.7-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\opencv-mobile-2.4.13.7-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\ncnn-20221128-android-vulkan\\arm64-v8a\\lib\\cmake\\glslang\\glslang-targets-release.cmake",
+    "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\ncnn-20221128-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "E:\\Androidtoo\\sdk2\\ndk\\22.0.7026061\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "E:\\Androidtoo\\sdk2\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "E:\\Androidtoo\\sdk2\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "scrfdncnn-Debug-arm64-v8a": {
+      "buildCommand": "E:\\Androidtoo\\sdk2\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\.cxx\\cmake\\debug\\arm64-v8a\" scrfdncnn",
+      "buildType": "debug",
+      "toolchain": "858610684",
+      "abi": "arm64-v8a",
+      "artifactName": "scrfdncnn",
+      "files": [
+        {
+          "src": "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\scrfdncnn.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\scrfd.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\ndkcamera.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\.cxx\\cmake\\debug\\arm64-v8a\\libscrfdncnn.so"
+    }
+  },
+  "toolchains": {
+    "858610684": {
+      "cppCompilerExecutable": "E:\\Androidtoo\\sdk2\\ndk\\22.0.7026061\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

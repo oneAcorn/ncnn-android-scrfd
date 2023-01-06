@@ -1,0 +1,5 @@
+# ninja log v5
+4	1493	694692690	CMakeFiles/scrfdncnn.dir/scrfdncnn.cpp.o	5f9aa0dd3ba3d065
+5	1496	694692690	CMakeFiles/scrfdncnn.dir/ndkcamera.cpp.o	b637ee897e41140e
+1	1618	694692690	CMakeFiles/scrfdncnn.dir/scrfd.cpp.o	bf5a69cf54909267
+1619	2129	694692691	libscrfdncnn.so	cf583fd8ef5226c1

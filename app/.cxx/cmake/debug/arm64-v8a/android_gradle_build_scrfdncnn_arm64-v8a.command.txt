@@ -1,0 +1,7 @@
+Executable : E:\Androidtoo\sdk2\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+F:\work\WorkSpace\ncnn-android-scrfd\app\.cxx\cmake\debug\arm64-v8a
+scrfdncnn
+jvmArgs : 
+

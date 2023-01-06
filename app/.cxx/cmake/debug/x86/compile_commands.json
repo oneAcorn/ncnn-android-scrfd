@@ -1,0 +1,19 @@
+[
+{
+  "directory": "F:/work/WorkSpace/ncnn-android-scrfd/app/.cxx/cmake/debug/x86",
+  "command": "E:\\Androidtoo\\sdk2\\ndk\\22.0.7026061\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=E:/Androidtoo/sdk2/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Androidtoo/sdk2/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dscrfdncnn_EXPORTS -IF:/work/WorkSpace/ncnn-android-scrfd/app/src/main/jni/opencv-mobile-2.4.13.7-android/sdk/native/jni/include/opencv -IF:/work/WorkSpace/ncnn-android-scrfd/app/src/main/jni/opencv-mobile-2.4.13.7-android/sdk/native/jni/include -isystem F:/work/WorkSpace/ncnn-android-scrfd/app/src/main/jni/ncnn-20221128-android-vulkan/x86/include/ncnn  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -o CMakeFiles\\scrfdncnn.dir\\scrfdncnn.cpp.o -c F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\scrfdncnn.cpp",
+  "file": "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\scrfdncnn.cpp"
+},
+
+{
+  "directory": "F:/work/WorkSpace/ncnn-android-scrfd/app/.cxx/cmake/debug/x86",
+  "command": "E:\\Androidtoo\\sdk2\\ndk\\22.0.7026061\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=E:/Androidtoo/sdk2/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Androidtoo/sdk2/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dscrfdncnn_EXPORTS -IF:/work/WorkSpace/ncnn-android-scrfd/app/src/main/jni/opencv-mobile-2.4.13.7-android/sdk/native/jni/include/opencv -IF:/work/WorkSpace/ncnn-android-scrfd/app/src/main/jni/opencv-mobile-2.4.13.7-android/sdk/native/jni/include -isystem F:/work/WorkSpace/ncnn-android-scrfd/app/src/main/jni/ncnn-20221128-android-vulkan/x86/include/ncnn  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -o CMakeFiles\\scrfdncnn.dir\\scrfd.cpp.o -c F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\scrfd.cpp",
+  "file": "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\scrfd.cpp"
+},
+
+{
+  "directory": "F:/work/WorkSpace/ncnn-android-scrfd/app/.cxx/cmake/debug/x86",
+  "command": "E:\\Androidtoo\\sdk2\\ndk\\22.0.7026061\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=E:/Androidtoo/sdk2/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Androidtoo/sdk2/ndk/22.0.7026061/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dscrfdncnn_EXPORTS -IF:/work/WorkSpace/ncnn-android-scrfd/app/src/main/jni/opencv-mobile-2.4.13.7-android/sdk/native/jni/include/opencv -IF:/work/WorkSpace/ncnn-android-scrfd/app/src/main/jni/opencv-mobile-2.4.13.7-android/sdk/native/jni/include -isystem F:/work/WorkSpace/ncnn-android-scrfd/app/src/main/jni/ncnn-20221128-android-vulkan/x86/include/ncnn  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -o CMakeFiles\\scrfdncnn.dir\\ndkcamera.cpp.o -c F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\ndkcamera.cpp",
+  "file": "F:\\work\\WorkSpace\\ncnn-android-scrfd\\app\\src\\main\\jni\\ndkcamera.cpp"
+}
+]
